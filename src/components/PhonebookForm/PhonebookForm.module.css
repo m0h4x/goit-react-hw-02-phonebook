@@ -1,5 +1,5 @@
 form {
-  border: 2px solid darkblue;
+  border: 2px solid pink;
   padding: 10px;
   display: flex;
   flex-direction: column;
@@ -19,14 +19,14 @@ form {
   margin-top: 20px;
   padding: 5px;
   width: 100px;
-  border: 2px solid darkblue;
+  border: 2px solid yellow;
   border-radius: 3px;
-  background-color: rgb(133, 133, 211);
+  background-color: mediumaquamarine;
   opacity: 0.8;
   font-weight: 600;
 }
 .button:active {
-  box-shadow: 0 5px #666;
+  box-shadow: 0 5px gainsboro;
 }
 
 .button:hover,
